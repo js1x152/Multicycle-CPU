@@ -1,4 +1,4 @@
-# CMPEN331_MultiCycleCPU
+# MultiCycle CPU
 
 This was a multicycle processor designed in Verilog as the Final Project for CMPEN331, a class I completed while attending Penn State University. 
 
